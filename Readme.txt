@@ -1,0 +1,1 @@
+React DJango practice. Development for a music dj application. Inspired by Tech With Tim on Youtube. 
